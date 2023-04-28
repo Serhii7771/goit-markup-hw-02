@@ -82,6 +82,17 @@ button {
   left: 472px;
   top: 260px;
 }
+
+/* section thry */
+.title-thry {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
 .footer {
   background: #2e2f42;
 }
@@ -91,11 +102,11 @@ button {
 }
 
 .logo-footer-web {
-  font-family: "Raleway,sans-serif";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1, 17;
+  line-height: 1.17;
   display: flex;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -103,10 +114,10 @@ button {
 }
 
 .logo-footer-studio {
-  font-family: "Raleway,sans-serif";
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1, 17;
+  line-height: 1.17;
   display: flex;
   letter-spacing: 0.03em;
   text-transform: uppercase;
