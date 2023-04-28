@@ -18,16 +18,16 @@ button {
 }
 
 .logo {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1, 16;
+  line-height: 1.17;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
+  color: #4d5ae5;
 }
 
 .menu {
@@ -40,7 +40,7 @@ button {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
@@ -57,8 +57,8 @@ button {
   color: #434455;
 }
 
-.my-web {
-  color: #4d5ae5;
+.my-header-studio {
+  color: #2e2f42;
 }
 .body {
   font-family: "Roboto" sans-serif;
