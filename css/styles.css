@@ -78,7 +78,8 @@ button {
   color: #434455;
 }
 
-.contact-tel:hover {
+.contact-tel:hover,
+.contact-tel:focus {
   color: #404bbf;
 }
 
@@ -94,6 +95,30 @@ body {
 .section-one {
   background: #2e2f42;
 }
+
+.section-one-title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.section-one-button {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
+.section-one-button:hover,
+.section-one-button:focus {
+  background-color: #404bbf;
+}
+
 .title-one {
   font-weight: 500;
   font-size: 20px;
@@ -125,17 +150,31 @@ body {
   letter-spacing: 0.02em;
 }
 
-.title-two {
+.section-two-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 /* section thry */
-.title-thry {
+.section-thry-title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+}
+
+/* section-four */
+
+.section-four {
+  background-color: #f4f4fd;
+}
+
+.section-four-li {
+  background-color: #ffffff;
 }
 
 .footer {
