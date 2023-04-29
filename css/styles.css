@@ -1,5 +1,6 @@
 :root {
   --accent-color: #ffffff;
+  --section-two-title-color: #2e2f42;
 }
 
 .list {
@@ -137,6 +138,10 @@ body {
 }
 
 /* title-two */
+
+.section-two {
+  color: var(--section-two-title-color: #2e2f42 ;);
+}
 
 .about {
   font-weight: 500;
