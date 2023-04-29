@@ -1,4 +1,5 @@
 :root {
+  --accent-color: #ffffff;
 }
 
 .list {
@@ -89,6 +90,7 @@ button {
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
+  color: var(--accent-color);
 }
 
 /* sections */
