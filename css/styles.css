@@ -90,7 +90,7 @@ button {
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  color: var(--accent-color);
+  background-color: var(--accent-color);
 }
 
 /* sections */
