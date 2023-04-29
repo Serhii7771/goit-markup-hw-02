@@ -1,7 +1,7 @@
 :root {
   --accent-color: #ffffff;
   --section-two-title-color: #2e2f42;
-  --color-main-p: #434455;
+  --color-main-p: #2e2f42;
 }
 
 .list {
@@ -135,7 +135,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--color-main-p);
+  color: var(#434455);
 }
 
 /* title-two */
