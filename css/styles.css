@@ -49,14 +49,21 @@ button {
   color: #404bbf;
 }
 
-.model-button {
-  background-color: #4d5ae5;
+.button-all {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #f4f4fd;
+  cursor: pointer;
+}
+
+.button-all:hover,
+.button-all:focus {
   color: #ffffff;
+  background-color: #404bbf;
 }
 
 .adress {
@@ -88,15 +95,18 @@ button {
   background: #2e2f42;
 }
 .title-one {
-  font-size: 56px;
-  line-height: 1.07;
-  text-align: center;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #ffffff;
-  width: 496px;
-  height: 120px;
-  left: 472px;
-  top: 260px;
+  color: var(#2e2f42);
+}
+
+.section-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(#434455);
 }
 
 /* title-two */
